@@ -15,3 +15,5 @@ message HelloResponse{
 service Greeter{
    rpc SayHello(HelloRequest) returns(HelloResponse) {}
 }
+
+/* Added directly by the Team Lead
